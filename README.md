@@ -1,7 +1,8 @@
 # Virtual Pet Simulator
 
-##Names of Pair Working on This Fork
+## Names of Pair Working on This Fork
 <Enter Name 1 Here>
+
 <Enter Name 2 Here>
 
 ## Run from Git Bash
