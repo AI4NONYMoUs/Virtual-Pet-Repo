@@ -1,7 +1,7 @@
 # Virtual Pet Simulator
 
 ## Names of Pair Working on This Fork
-<Ronnie Hill>
+Ronnie Hill
 
 <Enter Name 2 Here>
 
